@@ -1,0 +1,2 @@
+# LCS
+Le serveur LCS est une solution libre de serveur de communication orienté «réseau Intranet d'établissement scolaire». Il offre la majeure partie des services que l'on peut attendre aujourd'hui d'un ENT pour faciliter et améliorer la circulation des informations entre les différents acteurs de la communauté éducative que sont les élèves, les professeurs, les parents d'élèves et le personnel administratif.  LCS est développé par l'équipe DANede l'académie de Caen et déployé dans l'ensemble des collèges et Lycées de cette académie.
